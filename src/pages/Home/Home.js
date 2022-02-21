@@ -38,7 +38,7 @@ const Home = () => {
         <Element id="roadmap" name="roadmap">
           <RoadmapSection />
         </Element>
-        <Element id="teamMeet" name="teamMeet">
+        <Element id="teamMeet" name="about">
           <TeamMeetSection />
         </Element>
         <Element id="support" name="support">
