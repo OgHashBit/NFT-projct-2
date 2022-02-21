@@ -35,10 +35,6 @@ const Home = () => {
       <Box className={classes.body}>
         <Element id="home" name="home">
           <HomeSection />
-        </Element>
-        <Element id="buyNow" name="buyNow">
-          <BuyNowSection />
-        </Element>
         <Element id="roadmap" name="roadmap">
           <RoadmapSection />
         </Element>
