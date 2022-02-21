@@ -34,6 +34,7 @@ const Home = () => {
       <Box className={classes.body}>
         <Element id="home" name="home">
           <HomeSection />
+        </Element>
         <Element id="roadmap" name="roadmap">
           <RoadmapSection />
         </Element>
