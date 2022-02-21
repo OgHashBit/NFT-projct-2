@@ -1,7 +1,7 @@
 import React from 'react'
 import { Box, Grid, Typography } from '@material-ui/core'
 // core components
-import meetAvatar from 'assets/images/Home/team.png'
+import meetAvatar from 'assets/images/Home/team.jpg'
 
 import { makeStyles } from '@material-ui/core/styles'
 import styles from 'assets/jss/pages/Home/teamMeetSectionStyle'
@@ -19,7 +19,7 @@ const TeamMeetSection = () => {
       <Box className={classes.gameContainer}>
         <Box className={classes.container}>
           <Box className={classes.content}>
-            <Typography className={classes.title}>MEET THE TEAM</Typography>
+            <Typography className={classes.title}>GOLD BACKING</Typography>
             <Box className={classes.featureContainer}>
               <Grid
                 container
