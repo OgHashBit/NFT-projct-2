@@ -30,49 +30,49 @@ const RoadmapSection = () => {
       </Box>
       <Box className={classes.roadmapContainer}>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap1} percentage={10} description={'We pay our dads back'} />
+          <Roadmap image={roadmap1} percentage={10} description={'Expand to more Blockchain networks'} />
         </Box>
         <Box style={{ marginLeft: '120px' }}>
           <Roadmap
             image={roadmap2}
             percentage={20}
-            description={'Some prisoners escape (we giveway 5 rare prisoners)'}
+            description={'$GLD token and DEX launch'}
           />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap3} percentage={30} description={'Private planetary channels on discord open'} />
+          <Roadmap image={roadmap3} percentage={30} description={'Distribution of rewards for early supporters'} />
         </Box>
         <Box style={{ marginLeft: '0px' }}>
           <Roadmap
             image={roadmap4}
             percentage={40}
-            description={'We create the wall of Awesome forever meorializing all the first Astrohoders'}
+            description={'Expand to diamond,gemstone and jewelry backed art'}
           />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap5} percentage={50} description={'We release the rarity breakdowns'} />
+          <Roadmap image={roadmap5} percentage={50} description={'GoldenArt NFT marketplace and minter'} />
         </Box>
         <Box style={{ marginLeft: '120px' }}>
-          <Roadmap image={roadmap6} percentage={60} description={'Astrohedz merch store opens'} />
+          <Roadmap image={roadmap6} percentage={60} description={'Special one-kind collections launch'} />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
-          <Roadmap image={roadmap7} percentage={70} description={'An alien comes to Clubhouse'} />
+          <Roadmap image={roadmap7} percentage={70} description={'Decentralized chat app for users'} />
         </Box>
         <Box style={{ marginLeft: '0px' }}>
-          <Roadmap image={roadmap8} percentage={80} description={'A spaceship begins to assemble in the Netaverse'} />
+          <Roadmap image={roadmap8} percentage={80} description={'Development of DAPP to showcase your NFTs'} />
         </Box>
         <Box style={{ marginLeft: '60px' }}>
           <Roadmap
             image={roadmap9}
             percentage={90}
-            description={'We do that liquidity pool thing (that the BAYC did)'}
+            description={'Liqudity pools and staking'}
           />
         </Box>
         <Box style={{ marginLeft: '120px' }}>
           <Roadmap
             image={roadmap10}
             percentage={100}
-            description={'Spaceship opens in the metaverse and our journey begins...'}
+            description={'Update roadmap'}
           />
         </Box>
       </Box>
