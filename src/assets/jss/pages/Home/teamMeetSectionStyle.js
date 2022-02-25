@@ -8,7 +8,7 @@ const teamMeetSectionStyle = {
   },
   gameContainer: {
     paddingTop: 10,
-    backgroundColor: '#6C0BA9',
+    backgroundColor: '#000000',
   },
   title: {
     fontFamily: 'DaysOneRegular',
