@@ -25,7 +25,7 @@ const HomeSection = () => {
             <Grid item xs={12} sm={12} md={12} lg={12}>
               <Typography className={classes.title}>What is FKN COOKIE?</Typography>
               <Typography className={globalClasses.text21}>
-                Unique digital art collection made completely by Artificial intelligence backed by gold.
+                FKN COOKIE is unique digital art collection made completely by Artificial intelligence backed by gold.
                 We adopted Paxos PAXG token for highly accessible, trusted, redeemable and flexible low fee backing.One fine troy ounce of gold equals one PAXG token (1:1). NFT owners can claim PAXG tokens depending on NFT rarity. Each rarity level has different amount of PAXG tokens available for claim, but also number of copy's available.
                 Common NFT - 0.5 $PAXG token
                 Rare NFT - 1 $PAXG token
