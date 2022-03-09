@@ -3,7 +3,7 @@ import { Box, Grid, Typography } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles'
 import styles from 'assets/jss/pages/Home/homeSectionStyle'
 import globalStyles from 'assets/jss/PLUTEX'
-import videoSrc from 'assets/images/Home/video.mp4'
+import videoSrc from 'assets/images/Home/Video.mp4'
 
 const useStyles = makeStyles(styles)
 const useGlobalStyles = makeStyles(globalStyles)
