@@ -34,9 +34,6 @@ const Home = () => {
         <Element id="home" name="home">
           <HomeSection />
         </Element>
-        <Element id="roadmap" name="roadmap">
-          <RoadmapSection />
-        </Element>
         <Element id="teamMeet" name="about">
           <TeamMeetSection />
         </Element>
