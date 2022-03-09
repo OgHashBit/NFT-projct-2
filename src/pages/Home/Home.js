@@ -9,7 +9,6 @@ import Header from 'components/Header/Header'
 import HeaderLinks from 'components/Header/HeaderLinks'
 // import Footer from 'components/Footer/Footer'
 import HomeSection from 'pages/Home/HomeSection'
-import RoadmapSection from 'pages/Home/RoadmapSection'
 import TeamMeetSection from 'pages/Home/TeamMeetSection'
 import FooterSection from 'pages/Home/FooterSection'
 
